@@ -6,5 +6,5 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https:yang5201314.cn
+- 👨‍💻 My blog: https://yang5201314.cn
 - 📫 How to reach me: 444783764@qq.com
