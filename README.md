@@ -2,7 +2,7 @@
 <img align="right" width="500" height="400" src= "https://user-images.githubusercontent.com/100369471/200211139-23f3d4bc-02c8-43e9-bee8-5dd8db8ac10c.jpg">
 <h1 align="center">
   <a href="https://yang5201314.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);欢迎来到我的主页&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);;欢迎来到我的主页&center=true&size=27">
   </a>
 </h1>
 
