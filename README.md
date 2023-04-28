@@ -17,6 +17,6 @@
 - :earth_americas: I'm from China-JiangMen
 - 💻 I love flushbonading!
 - :mending_heart: I love the Embedded Especially when playing single chip computer
-- junior college education background
+- 🏫 School: 广东理工职业学院
 - 👨‍💻 My blog: https://love.yang5201314.cn
 - 📫 How to reach me: 444783764@qq.com
