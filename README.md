@@ -14,7 +14,7 @@
 
 :heart: Black silk | :blue_heart: Programming
 
-- :earth_americas: I'm from China-JiangMen
+- :earth_americas: I'm from China-GuangDong-JiangMen
 - 💻 I love flushbonading!
 - :mending_heart: I love the Embedded Especially when playing single chip computer
 - 🏫 School: 广东理工职业学院
