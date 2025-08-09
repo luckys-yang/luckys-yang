@@ -18,5 +18,5 @@
 - 💻 I love flushbonading!
 - :mending_heart: I love the Embedded Especially when playing single chip computer
 - 🏫 School: 广东理工职业学院
-- 👨‍💻 My blog: https://blog.yang5201314.cn
-- 📫 How to reach me: 444783764@qq.com
+- 👨‍💻 My blog: https://blog.yang5201314.cn / https://love.yang5201314.cn
+- 📫 How to reach me: 444783764@qq.com / mdcm798@gmail.com
